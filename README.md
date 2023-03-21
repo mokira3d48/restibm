@@ -1,7 +1,10 @@
-# Django Midnight File System
+# RESTIBM
 ![](https://img.shields.io/badge/Python-3.10.10-blue)
 ![](https://img.shields.io/badge/Django-4.1.5-%2344B78B)
 ![](https://img.shields.io/badge/REST%20framework-3.14.0-%23A30000)
+![](https://img.shields.io/badge/LICENSE-MIT-%2300557f)
+![](https://img.shields.io/badge/lastest-2023--03--21-success)
+![](https://img.shields.io/badge/contact-dr.mokira%40gmail.com-blueviolet)
 
 Django package that allows to administer in a simple way the resources of an API with Rest Framework using several modes of operation.
 
